@@ -1,0 +1,57 @@
+A16 Maturity model - Control over IT process Manage
+Changes with the busienss goal of minimizing the 
+likelihood of diruption unauthorized alterations and errors 
+
+
+https://itdds.blogspot.com/2009/04/ai6-manage-changes.html
+
+1 Non-existent when
+There is no defined change management process, and changes can be made with virtually no control. There is no awareness
+ that change can be disruptive for IT and business operations, and no awareness of the benefits of good change management.
+2 Initial/Ad Hoc when
+It is recognized that changes should be managed and controlled. Practices vary, and it is likely that unauthorized 
+changes take place. There is poor or non-existent documentation of change, and configuration documentation is incomplete
+ and unreliable. Errors are likely to occur together with interruptions to the production environment caused by poor 
+ change management.
+3 Repeatable but Intuitive when
+There is an informal change management process in place and most changes follow this approach; however, it is unstructured,
+ rudimentary and prone to error. Configuration documentation accuracy is inconsistent, and only limited planning and impact
+ assessment take place prior to a change.
+4 Defined when
+There is a defined formal change management process in place, including categorization, prioritization, emergency procedures, 
+change authorisation and release management, and compliance is emerging. Workarounds take place, and processes are often bypassed.
+ Errors may occur and unauthorized changes occasionally occur. The analysis of the impact of IT changes on business operations is
+ becoming formalized, to support planned roll-outs of new applications and technologies.
+5 Managed and Measurable when
+The change management process is well developed and consistently followed for all changes, and management is confident 
+that there are minimal exceptions. The process is efficient and effective, but relies on considerable manual procedures
+ and controls to ensure that quality is achieved. All changes are subject to thorough planning and impact assessment to
+ minimize the likelihood of post-production problems. An approval process for changes is in place. Change management
+ documentation is current and correct, with changes formally tracked. Configuration documentation is generally accurate. 
+ IT change management planning and implementation are becoming more integrated with changes in the business processes, 
+ to ensure that training, organizational changes and business continuity issues are addressed. There is increased co-ordination 
+ between IT change management and business process redesign. There is a consistent process for monitoring the quality and 
+ performance of the change management process.
+6 Optimized when
+The change management process is regularly reviewed and updated to stay in line with good practices. The review process
+ reflects the outcome of monitoring. Configuration information is computer-based and provides version control. Tracking of 
+ changes is sophisticated and includes tools to detect unauthorized and unlicensed software. IT change management is integrated 
+ with business change management to ensure that IT is an enabler in increasing productivity and creating new business opportunities 
+ for the organization.
+ 
+ https://en.wikipedia.org/wiki/IT_infrastructure_deployment#Deployment_Plan_Template
+
+Deployment Plan Template
+A deployment template is an unbound deployment plan which defines the steps of execution but not the profiles and systems. Deployment templates are patterns from which deployment plans can be created.
+Typical information captured for each step in the deployment plan is:
+Sequence Number
+Activity Name
+Activity Description (Detailed description)
+Scripted Instruction
+Start Date & Time
+Expected Duration
+Dependent Activities
+Responsible Resource
+
+
+
